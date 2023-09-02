@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Cover Design.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Showcasing the Portfolio item of section";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Little Lemon: Reservation Table For Restaurant",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Indulge in Lemonicious Delights with Little Lemon’s Mobile App! Your gateway to a world of flavors, reservations, menus, and updates.",
+    url: "https://medium.com/@ossamamehmood/little-lemon-reservation-table-for-restaurant-b0e145e08c56",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Behamce | Graphoc Design",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Senior Graphic Designer | Brand Identity Strategist | Visual Designer",
+    url: "https://www.behance.net/ossamamehmood",
   },
   {
-    title: "My Resume Site",
+    title: "Dribbble | UI/UX Design",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "UI / Visual Design, Product Design, UX Design / Research",
+    url: "https://dribbble.com/ossamamehmood",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Abput Me",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Greetings, I'm Ossama Mehmood, Senior Graphic Designer and UI/UX Designer. Sole proprietorship & Founder at Minimsam & Top Rated Designer at Upwork!",
+    url: "https://ossamamehmood.github.io",
   },
 ];
 
